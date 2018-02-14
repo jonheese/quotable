@@ -1,0 +1,6 @@
+EXEC="/usr/bin/python /usr/local/bin/flask run --host=127.0.0.1 --port=5000"
+LOG_FILE="/var/log/quotable.log"
+FLASK_APP="/usr/local/quotable/quotable.py"
+PID_FILE="/var/run/quotable.pid"
+DAEMON="/usr/local/quotable/start-quotable.sh"
+DAEMON_USER="quotable"

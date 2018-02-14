@@ -1,0 +1,2 @@
+BOT_ID = "BOT_ID"
+BOT_TOKEN = "BOT_TOKEN"
