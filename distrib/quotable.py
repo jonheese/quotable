@@ -19,3 +19,7 @@ def show_quote_pretty():
 @app.route('/', methods=['POST'])
 def show_quote():
     return Response(get_quote("quotable_json.j2"), mimetype='application/json')
+
+
+if __name__ == "__main__":
+    app.run(host='0.0.0.0', port=8080)

@@ -26,7 +26,7 @@ quotes = [
              "It's like I cannot not be a dick. - Bill Pfeiffer, on talking to a specific (unnamed) colleague",
              "We just need to drop that expectation that everybody is going to perform at that level. Like, I'm gonna be honest: 99% of people are retarded. - Bill Pfeiffer, Motivational Speaker",
              "East German, that's kinda Russian. - Jim DeHart, geography expert",
-	     "They're like really expensive pens, but they don't write very expensive - like - more. - Chris Mikolay, on Cross pens",
+	     "They're like really expensive pens, but they don't write very expensive -- like -- more. - Chris Mikolay, on Cross pens",
              "Shirts are like fingerless gloves for your body. - Jon Heese",
              "The poop goes down and the pee goes up - Bill Pfeiffer, on what happens when you're on a liquid diet",
          ]
